@@ -1,0 +1,11 @@
+{
+  "name": "node-http-excercise",
+  "version": "1.0.0",
+  "description": "Learning about node's core and HTTP module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christiane .V",
+  "license": "ISC"
+}
